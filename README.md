@@ -134,10 +134,10 @@ python3 main.py --device auto
 
 # 🔧 Pré-requisitos
 
-✔️ Python 3.9+
-✔️ ffmpeg instalado (obrigatório)
-✔️ Whisper + Torch
-✔️ Ambiente virtual (`venv`) recomendado
+* Python 3.9+
+* ffmpeg instalado (obrigatório)
+* Whisper + Torch
+* Ambiente virtual (`venv`) recomendado
 
 ---
 
@@ -294,9 +294,9 @@ Este projeto é licenciado sob a MIT License — uma licença permissiva e ampla
 
 Isso significa que você pode:
 
-✔️ Usar
-✔️ Modificar
-✔️ Distribuir
-✔️ Incorporar em projetos pessoais ou comerciais
+* Usar
+* Modificar
+* Distribuir
+* Incorporar em projetos pessoais ou comerciais
 
 …desde que mantenha o aviso de copyright e a licença original nos arquivos redistribuídos.
